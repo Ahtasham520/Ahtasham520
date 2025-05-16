@@ -5,7 +5,7 @@ I'm an enthusiastic and motivated learner with a growing passion for web and mob
 ### 🎓 Education
 - ✅ Intermediate (Completed)
 - 📚 Diploma in Web Development from **Aptech** *(In Progress)*
-- 📱 Mobile App Development from **Saylani Welfare** *(In Progress)*
+- 📱 Model App Development from **Saylani Welfare** *(In Progress)*
 
 ### 💡 About Me
 - 🔥 Passionate about technology, development, and entrepreneurship  
